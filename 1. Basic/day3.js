@@ -10,6 +10,6 @@ function vowels(str){
     return count;
 }
 
-let myString ="This is a dumbest idea ever";
+let myString ="Chinmayi kirad";
 let vowelscount = vowels(myString);
 console.log("NO. of vowels " + vowelscount);
