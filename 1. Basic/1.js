@@ -5,3 +5,4 @@ const revStr = (str) => {
 }
 
 console.log(revStr("Aditya"))
+
